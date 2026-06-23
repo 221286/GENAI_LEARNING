@@ -19,9 +19,9 @@ def toUpperCase(val:str):
     return val.upper()
 
 
-st.title("This is BOT GPT")
+st.title("This is Anis BOT GPT")
 # st.markdown("My Qna bot  with langchain and Google Gemini !")
-st.markdown("I am new QNA chat bot for this one")
+st.markdown("This is Anis QNA chat bot please shoot your query")
 
 if "messages" not in st.session_state:
     st.session_state.messages=[]
