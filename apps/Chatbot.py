@@ -19,7 +19,7 @@ def toUpperCase(val:str):
     return val.upper()
 
 
-st.title("This is Anis BOT GPT")
+st.title("STREAM ON: EXPLORE THE ENDLESS POSSIBILITIES WITH ANIS")
 # st.markdown("My Qna bot  with langchain and Google Gemini !")
 st.markdown("This is Anis QNA chat bot please shoot your query")
 
