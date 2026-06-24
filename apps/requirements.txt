@@ -4,4 +4,4 @@ dotenv
 langchain-google-genai
 langchain_groq
 streamlit
- 
+langgraph
